@@ -5,4 +5,6 @@
 
 [![Смотреть видео](https://github.com/dato-svg/Visible_Shader/tree/main/Images/scr.png)](https://www.youtube.com/watch?v=KIZeBYZGG4I&ab_channel=animeplanet)
 
-(https://github.com/dato-svg/Visible_Shader/tree/main/Shader_Test/Assets/Screen/scr.png)
+![Описание скриншота] (https://github.com/dato-svg/Visible_Shader/tree/main/Shader_Test/Assets/Screen/scr.png)
+
+(https://github.com/dato-svg/Visible_Shader/blob/main/Shader_Test/Assets/Screen/scr.png)
